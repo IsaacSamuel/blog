@@ -6,10 +6,15 @@
     <description>Recent content in Tech on Isaac Samuel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Jan 2018 19:04:15 -0400</lastBuildDate>
-    
-	<atom:link href="https://isaacsamuel.github.io/blog/tech/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Tue, 28 Jan 2020 19:04:15 -0400</lastBuildDate><atom:link href="https://isaacsamuel.github.io/blog/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coding is wizardy</title>
+      <link>https://isaacsamuel.github.io/blog/tech/wizardy/</link>
+      <pubDate>Tue, 28 Jan 2020 19:04:15 -0400</pubDate>
+      
+      <guid>https://isaacsamuel.github.io/blog/tech/wizardy/</guid>
+      <description>I spent my childhood eternally frustrated by Harry Potter and Ron Weasley for their extreme lack of curiosity for the magical world. Dropped into the world&amp;rsquo;s premier magic prep school, their reaction was &amp;ldquo;mehhhhh, let&amp;rsquo;s cut class and play Quidditch.&amp;rdquo; Quidditch is awesome&amp;ndash;flying in general is awesome&amp;ndash;and I&amp;rsquo;m sure Hermione is missing out. But at least she is expressing what seems like the only sane reaction to discovering magic is real&amp;ndash;sheer wonder and excitement.</description>
+    </item>
     
     <item>
       <title>Algorithmic Bias in Machine Learning</title>
