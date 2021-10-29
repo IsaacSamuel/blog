@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://isaacsamuel.github.io/blog/blurbs/</loc>
-    <lastmod>2021-06-12T19:04:15-04:00</lastmod>
+    <loc>https://isaacsamuel.github.io/blog/blurbs/siblings/</loc>
+    <lastmod>2021-07-12T19:04:15-04:00</lastmod>
   </url><url>
-    <loc>https://isaacsamuel.github.io/blog/blurbs/eyes/</loc>
-    <lastmod>2021-06-12T19:04:15-04:00</lastmod>
+    <loc>https://isaacsamuel.github.io/blog/blurbs/</loc>
+    <lastmod>2021-07-12T19:04:15-04:00</lastmod>
   </url><url>
     <loc>https://isaacsamuel.github.io/blog/</loc>
+    <lastmod>2021-07-12T19:04:15-04:00</lastmod>
+  </url><url>
+    <loc>https://isaacsamuel.github.io/blog/blurbs/eyes/</loc>
     <lastmod>2021-06-12T19:04:15-04:00</lastmod>
   </url><url>
     <loc>https://isaacsamuel.github.io/blog/thoughts/day-to-day/</loc>
@@ -23,8 +26,14 @@
     <loc>https://isaacsamuel.github.io/blog/thoughts/two-hour-friendships/</loc>
     <lastmod>2021-03-12T19:04:15-04:00</lastmod>
   </url><url>
+    <loc>https://isaacsamuel.github.io/blog/thoughts/tightrope/</loc>
+    <lastmod>2021-01-31T19:04:15-04:00</lastmod>
+  </url><url>
     <loc>https://isaacsamuel.github.io/blog/thoughts/ancesteral-trauma/</loc>
     <lastmod>2020-11-12T19:04:15-04:00</lastmod>
+  </url><url>
+    <loc>https://isaacsamuel.github.io/blog/thoughts/trauma/</loc>
+    <lastmod>2020-11-10T19:04:15-04:00</lastmod>
   </url><url>
     <loc>https://isaacsamuel.github.io/blog/thoughts/classification-schema/</loc>
     <lastmod>2020-06-20T19:04:15-04:00</lastmod>
@@ -58,6 +67,9 @@
   </url><url>
     <loc>https://isaacsamuel.github.io/blog/fiction/true-loves-kiss/</loc>
     <lastmod>2019-12-03T19:04:15-04:00</lastmod>
+  </url><url>
+    <loc>https://isaacsamuel.github.io/blog/thoughts/cultural-relations-pg/</loc>
+    <lastmod>2019-10-31T19:04:15-04:00</lastmod>
   </url><url>
     <loc>https://isaacsamuel.github.io/blog/fiction/divorce/</loc>
     <lastmod>2019-08-08T19:04:15-04:00</lastmod>
@@ -118,9 +130,6 @@
   </url><url>
     <loc>https://isaacsamuel.github.io/blog/thoughts/customer-service/</loc>
     <lastmod>2018-11-12T19:04:15-04:00</lastmod>
-  </url><url>
-    <loc>https://isaacsamuel.github.io/blog/thoughts/cultural-relations-pg/</loc>
-    <lastmod>2018-10-31T19:04:15-04:00</lastmod>
   </url><url>
     <loc>https://isaacsamuel.github.io/blog/thoughts/cs-chest-beating/</loc>
     <lastmod>2018-03-20T19:04:15-04:00</lastmod>
